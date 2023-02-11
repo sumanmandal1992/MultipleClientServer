@@ -1,0 +1,12 @@
+client/compile_commands.json
+client/bin/*
+client/bin
+client/obj/*
+client/obj
+client/.cache/*
+server/compile_commands.json
+server/obj/*
+server/obj
+server/bin/*
+server/bin
+server/.cache/*
